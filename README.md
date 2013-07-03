@@ -6,7 +6,7 @@ La nomenclatura a seguir será la siguiente.
 Primero va el tipo de incidencia:
 styl para estilo
 func para funcional
-doc para informacion
+doc para documentación
 
 
 Segundo, va el nombre de quién lo hace:
@@ -17,7 +17,7 @@ JA para Javi
 
 Tercero, el tipo de actividad que es, en principio usaremos las siguientes:
 INF búsqueda de información.
-DES desarrollo de los algoritmos.
+DES desarrollo de los algoritmos y bases de datos.
 PAN para el diseño de pantallas.
 
 
